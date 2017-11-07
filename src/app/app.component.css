@@ -1,0 +1,32 @@
+#wrapper{
+    height: 1000px;
+}
+#head{
+    height: 15%;
+    margin: 15px;
+    background-color: lightblue;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-left:20px;
+}
+#nav{
+    vertical-align: top;
+    height: 60%;
+    width: 16%;
+    margin: 15px;
+    background-color: lightblue;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-left:20px;
+    display: inline-block;
+}
+#main{
+    height: 70%;
+    width: 80%;
+    margin: 15px;
+    background-color: lightblue;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-left:20px;
+    display: inline-block;
+}
